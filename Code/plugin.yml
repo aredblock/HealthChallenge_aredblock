@@ -1,0 +1,11 @@
+name: HealthChallenge_aredblock
+main: main.Main
+api-version: 1.13
+version: 1.0
+commands:
+   challenge:
+      description: Set the settings from the challenge!
+      usage: /challenge
+   ch-help:
+      description: Command help!
+      usage: /ch-help
