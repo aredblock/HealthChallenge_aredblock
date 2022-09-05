@@ -17,7 +17,7 @@
 ````
 
  /ch-help - For help with the commands
- /mp - For change the health!: 
+ /challenge - For change the health!: 
      (/challenge <command: easy, hard, god, (reset> For reset the challenge!))
 
 ````
