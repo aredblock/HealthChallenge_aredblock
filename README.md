@@ -6,7 +6,8 @@
 <hr>
 
 ## Description:
-#### Its an Beta!
+#### Its a Beta!
+#### Please write bugs in the comments!
 #### You can play a cool "health-challenge"!
 
 <hr>
