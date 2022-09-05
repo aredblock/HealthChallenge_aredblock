@@ -17,8 +17,8 @@
 ````
 
  /ch-help - For help with the commands
- /challenge - For change the health!: 
-     (/challenge <command: easy, hard, god, (reset> For reset the challenge!))
+ /challenge - To change the health!: 
+     (/challenge <command: easy, hard, god, ("reset" to reset the challenge!))
 
 ````
 
