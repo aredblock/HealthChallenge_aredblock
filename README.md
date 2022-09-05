@@ -8,7 +8,7 @@
 ## Description:
 #### Its a Beta!
 #### Please write bugs in the comments!
-#### You can play a cool "health-challenge"!
+#### You can play a great challenge!
 
 <hr>
 
